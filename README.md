@@ -2,8 +2,12 @@
 
 # Hello 👋🏻! I'm Irfan Anshari
 
-As an 11th grade student majoring in Computer Networks & Telecommunications Engineering at Vocational High School 1 Banjarmasin, I have a huge passion for technology especially in Blockchain, Cybersecurity, AI/Machine Learning, and Robotics. I'm always eager to stay updated on the latest trends in the world. 
-Last but not least, I am also proficient in designing and managing network/server systems, playing guitar, and photography. I love the combination of creativity and technology, and I look forward to opportunities that challenge me to innovate and grow. Let's be friends! 
+As an 11th-grade student majoring in Computer Networks & 
+Telecommunications Engineering at Vocational High School 1 Banjarmasin, i have a huge passion about technology, especially Blockchain, Cybersecurity, AI/Machine Learning, and Robotics, I stay updated on the latest trends.
+<br><br>
+Proficient in network system design and management, I also enjoy playing 
+guitar and photography, blending creativity with technology. Excited for
+ opportunities to innovate and grow. Let's be friends! 
 <!-- ## 🌐 Socials: -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanmastermind) [![Twitter](https://img.shields.io/badge/Twitter-%23212121.svg?logo=Twitter&logoColor=white)](https://twitter.com/Irfanihbro)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://id.quora.com/profile/Muhammad-Irfan-Anshari?ch=10&oid=2904314889) [![PlayStation](https://img.shields.io/badge/PlayStation-%231A2D57.svg?logo=PlayStation&logoColor=white)](https://profile.playstation.com/Hathorik)
