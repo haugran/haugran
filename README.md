@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haugran&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+
 # Hello 👋🏻! I'm Irfan Anshari
 
 As an 11th grade student majoring in Computer Networks & Telecommunications Engineering at Vocational High School 1 Banjarmasin, I have a huge passion for technology especially in Blockchain, Cybersecurity, AI/Machine Learning, and Robotics. I'm always eager to stay updated on the latest trends in the world. 
@@ -14,19 +16,14 @@ Last but not least, I am also skilled in designing and managing network systems,
 ##
 <!-- Snake Graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/haugran/haugran/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/haugran/haugran/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/haugran/haugran/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  
 </div>
 <br>
 <div align="left">
 <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haugran&theme=github-compact&radius=16" height="auto" alt=""/>
-
-<!-- Credit: https://github.com/fatkhurrhn -->
-
-
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haugran&theme=github-compact&radius=16" height="auto" alt=""/>
