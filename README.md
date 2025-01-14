@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haugran&label=Total%20profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-# Hello 👋🏻! I'm Irfan Anshari
+# Hello! 👋🏻 I'm Irfan Anshari
 
 As an 11th-grade student majoring in Computer Networks & 
-Telecommunications Engineering at Vocational High School 1 Banjarmasin, i have a huge passion about technology, especially Blockchain, Cybersecurity, AI/Machine Learning, and Robotics, I stay updated on the latest trends.
+Telecommunications Engineering at Vocational High School 1 Banjarmasin, I have a huge passion about technology, especially Blockchain, Cybersecurity, AI/Machine Learning, and Robotics, I stay updated on the latest trends.
 <br><br>
 Proficient in network system design and management, I also enjoy playing 
 guitar and photography, blending creativity with technology. Excited for
