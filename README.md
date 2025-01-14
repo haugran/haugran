@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haugran&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haugran&label=Total%20profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 # Hello 👋🏻! I'm Irfan Anshari
 
