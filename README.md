@@ -1,11 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haugran&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
 # Hello 👋🏻! I'm Irfan Anshari
 
 As an 11th grade student majoring in Computer Networks & Telecommunications Engineering at Vocational High School 1 Banjarmasin, I have a huge passion for technology especially in Blockchain, Cybersecurity, AI/Machine Learning, and Robotics. I'm always eager to stay updated on the latest trends in the world. 
 Last but not least, I am also skilled in designing and managing network systems, playing guitar, and photography. I appreciate the combination of creativity and technology, and I look forward to opportunities that challenge me to innovate and grow. Let's be friends! 
 <!-- ## 🌐 Socials: -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irfanihbro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanmastermind) [![Twitter](https://img.shields.io/badge/Twitter-%23212121.svg?logo=Twitter&logoColor=white)](https://twitter.com/Irfanihbro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanmastermind) [![Twitter](https://img.shields.io/badge/Twitter-%23212121.svg?logo=Twitter&logoColor=white)](https://twitter.com/Irfanihbro)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Muhammad-Irfan-Anshari-1?ch=10&oid=2904314889) [![PlayStation](https://img.shields.io/badge/PlayStation-%231A2D57.svg?logo=PlayStation&logoColor=white)](https://profile.playstation.com/Hathorik)
 
 <!-- ## 💻 Technical Skills:
