@@ -6,7 +6,7 @@ As an 11th-grade student majoring in Computer Networks &
 Telecommunications Engineering at Vocational High School 1 Banjarmasin, I have a huge passion about technology, especially Blockchain, Cybersecurity, AI/Machine Learning, and Robotics, I stay updated on the latest trends.
 <br><br>
 Proficient in network system design and management, I also enjoy playing guitar and photography, blending creativity with technology. 
-Excited for opportunities to innovate and grow. <br><br> Below here are my social links 👇🏻 <br> Let's get connected! :)
+Excited for opportunities to innovate and grow. <br><br> Below here are my social links. 👇🏻 <br> Let's get connected! :)
 <!-- ## 🌐 Socials: -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230068C9.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanmastermind) [![𝕏](https://img.shields.io/badge/𝕏-%23000000.svg?logo=X&logoColor=white)](https://x.com/Irfanihbro) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://id.quora.com/profile/Muhammad-Irfan-Anshari?ch=10&oid=2904314889) [![PlayStation](https://img.shields.io/badge/PlayStation-%231A2D57.svg?logo=PlayStation&logoColor=white)](https://profile.playstation.com/Hathorik) [![Roblox](https://img.shields.io/badge/Roblox-%23202020.svg?logo=Roblox&logoColor=chrome)](https://www.roblox.com/id/users/7584753824/profile)
 [![Facebook](https://img.shields.io/badge/Facebook-%230068FF.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/irfanihbro)
