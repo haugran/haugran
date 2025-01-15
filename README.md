@@ -12,7 +12,21 @@ Excited for opportunities to innovate and grow. Let's be friends! :D
 [![𝕏](https://img.shields.io/badge/𝕏-%230E141A.svg?logo=X&logoColor=white)](https://twitter.com/Irfanihbro)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://id.quora.com/profile/Muhammad-Irfan-Anshari?ch=10&oid=2904314889) [![PlayStation](https://img.shields.io/badge/PlayStation-%231A2D57.svg?logo=PlayStation&logoColor=white)](https://profile.playstation.com/Hathorik) 
 [![Roblox](https://img.shields.io/badge/Roblox-%230F1012.svg?logo=Roblox&logoColor=chrome)](https://www.roblox.com/id/users/7584753824/profile)
-<br><br>
+<br>
+<!-- Snake Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/haugran/haugran/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/haugran/haugran/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/haugran/haugran/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  
+</div>
+<div align="left">
+<br>
+<!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haugran&theme=github-compact&radius=16" height="auto" alt=""/>
+
 # **Tech Stack & Operating Systems:**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -93,17 +107,3 @@ Excited for opportunities to innovate and grow. Let's be friends! :D
 ![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 <!-- ## 💻 Technical Skills: -->
-##
-<!-- Snake Graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/haugran/haugran/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/haugran/haugran/blob/main/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/haugran/haugran/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  
-</div>
-<br>
-<div align="left">
-<!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haugran&theme=github-compact&radius=16" height="auto" alt=""/>
