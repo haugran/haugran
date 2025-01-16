@@ -2,8 +2,7 @@
 
 # Hello! 👋🏻 I'm Irfan Anshari
 
-As an 11th-grade student majoring in Computer Network & 
-Telecommunications Engineering at Vocational High School 1 Banjarmasin, I'm deeply passionate about technology, especially in Blockchain, Web3, AI/Machine Learning, Robotics, and Cybersecurity. I love to keep up with the latest trends.
+As an 11th-grade student majoring in Computer Network and Telecommunications Engineering at Vocational High School 1 Banjarmasin, I'm deeply passionate about technology, especially in Blockchain, Web3, AI/Machine Learning, Robotics, and Cybersecurity. I love to keep up with the latest trends.
 <br><br>
 With solid skills in network system design and management, I also explore the creative side of life through playing guitar and photography, combining art and tech seamlessly. <br><br> 
 Below here are my social links. 👇🏻 <br> Let's get connected! :)
