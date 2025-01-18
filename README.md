@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanihbro&label=Total%20profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-# Hello! 👋🏻 I'm Irfan Anshari
+## Hello! 👋🏻 I'm Irfan Anshari
 
 As an 11th-grade student majoring in Computer Network and Telecommunications Engineering at Vocational High School 1 Banjarmasin, I'm deeply passionate about technology, especially in Blockchain, Web3, AI/Machine Learning, Robotics, and Cybersecurity. I love to keep up with the latest trends.
 <br><br>
@@ -28,7 +28,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanihbro&theme=github-compact&radius=16" height="auto" alt=""/>
 
-# **Tech Stack**
+## Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -73,7 +73,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)
 
-# **Tools**
+## Tools
 
 ![Device](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
