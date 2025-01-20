@@ -3,6 +3,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfanihbro&label=Total%20profile%20views&color=0e75b6&style=flat" alt="" /> </p>
   
 #### Welcome to my GitHub profile! 👋🏻
+<br>
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Anshari&fontSize=80&fontAlign=60&animation=fadeIn)
 
@@ -164,3 +165,5 @@ System:
 ```
 
 <!-- ## 💻 Technical Skills: -->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
