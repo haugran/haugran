@@ -22,7 +22,7 @@ class irfanihbro:
         self.life_motto = "Big plans start with small steps"
     
     def get_daily_routine(self):
-        return ["Code", "Learn", "Game", "Music", "Guitar", "Repeat"]
+        return ["Code", "Learn", "Game", "Guitar", "Repeat"]
 ```
 
 <br>
