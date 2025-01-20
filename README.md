@@ -1,6 +1,31 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanihbro&label=Total%20profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<div align="center">
 
-## Hello! 👋🏻 I'm Irfan Anshari
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfanihbro&label=Total%20profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+  
+  #### 👋🏻 Welcome to Irfan Anshari's GitHub profile!
+  
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Anshari&fontSize=80&fontAlign=60&animation=fadeIn)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech+Enthusiast+;Full-Stack+Developer;Network+Engineer;Guitarist;Gamer)](https://git.io/typing-svg)
+</div>
+
+## 🧑🏻‍💻 About Me
+
+```python
+class irfanihbro:
+    def __init__(self):
+        self.name = "Muhammad Irfan Anshari"
+        self.location = "Banjarmasin, Indonesia"
+        self.work = "Network Engineer & Full-Stack Developer"
+        self.interests = ["Cybersecurity", "Web3", "AI/Machine Learning", "Robotics", "Blockchain"]
+        self.gaming = ["Roblox", "PlayStation 5 Exclusives", "Zenless Zone Zero"]
+        self.life_motto = "Big plans start with small steps"
+    
+    def get_daily_routine(self):
+        return ["Code", "Learn", "Game", "Music", "Guitar", "Repeat"]
+```
+
+<br>
 
 As an 11th-grade student majoring in Computer Network and Telecommunications Engineering at Vocational High School 1 Banjarmasin, I'm deeply passionate about technology, especially in Blockchain, Web3, AI/Machine Learning, Robotics, and Cybersecurity. I love to keep up with the latest trends.
 <br><br>
@@ -13,7 +38,9 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Irfanihbro/s/Sq62J8E3Wv)
 [![TikTok](https://img.shields.io/badge/TikTok-%23111111.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@irfanihbro)
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=FFFFFF)](https://open.spotify.com/user/313aemqfkpwlwusrqfhrd46zxcei?si=VfjHZ6WJQKOfNzBfhKMbog)
-<br>
+<br><br>
+## 📊 GitHub Stats
+
 <!-- Snake Graph -->
 <div align="center">
   <picture>
@@ -21,14 +48,20 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/irfanihbro/irfanihbro/blob/main/github-contribution-grid-snake.svg" />
     <img src="https://github.com/irfanihbro/irfanihbro/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
-  
+</div><br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irfanihbro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=irfanihbro&theme=dark"/>
 </div>
-<div align="left">
+
+<div align="center">
   
 <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanihbro&theme=github-compact&radius=16" height="auto" alt=""/>
 
-## Tech Stack
+## ⚙️ Tech Arsenal
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -73,7 +106,9 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)
 
-## Tools
+
+## 🛠️ Tools
+
 
 ![Device](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -107,5 +142,25 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Burpsuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+
+## 🎯 Current Setup
+
+
+```yaml
+Development:
+  Editor:
+    desktop: ["Visual Studio Code", "Sublime Text", "JetBrains Fleet", "Arduino IDE", ]
+    mobile: ["Acode"]
+    terminal: ["Termux", "Linux Userland", "PowerShell", "GNU Bash"]
+    
+System:
+  device: ["vivo iQOO 12", "Lenovo IdeaPad Flex 5 14ABR8"]
+  processor: "Qualcomm™ Snapdragon 8 Gen 3"
+  os: ["Android 15", "Windows 11 23H2"]
+  environment: ["Kali Linux", "Ubuntu", "Debian", "Windows", "Cent OS", "Arch Linux", "Proxmox"]
+```
 
 <!-- ## 💻 Technical Skills: -->
