@@ -41,6 +41,13 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 <br><br>
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irfanihbro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=irfanihbro&theme=dark"/>
+</div>
+
+<div align="center">
+
 <!-- Snake Graph -->
 <div align="center">
   <picture>
@@ -48,14 +55,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/irfanihbro/irfanihbro/blob/main/github-contribution-grid-snake.svg" />
     <img src="https://github.com/irfanihbro/irfanihbro/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
-</div><br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irfanihbro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=irfanihbro&theme=dark"/>
 </div>
-
-<div align="center">
   
 <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanihbro&theme=github-compact&radius=16" height="auto" alt=""/>
