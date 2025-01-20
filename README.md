@@ -18,8 +18,8 @@ class irfanihbro:
         self.name = "Muhammad Irfan Anshari"
         self.location = "Banjarmasin, Indonesia"
         self.work = "Network Engineer & Full-Stack Developer"
-        self.interests = ["Cybersecurity", "Web3", "AI/Machine Learning", "Robotics", "Blockchain"]
-        self.gaming = ["Roblox", "PlayStation 5 Exclusives", "Zenless Zone Zero"]
+        self.interests = ["Cybersecurity", "Web3", "AI", "Robotics", "Blockchain"]
+        self.gaming = ["Roblox", "PlayStation 5", "Zenless Zone Zero"]
         self.life_motto = "Big plans start with small steps"
     
     def get_daily_routine(self):
