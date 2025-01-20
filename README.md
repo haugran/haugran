@@ -2,7 +2,7 @@
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfanihbro&label=Total%20profile%20views&color=0e75b6&style=flat" alt="" /> </p>
   
-  #### 👋🏻 Welcome to Irfan Anshari's GitHub profile!
+#### Welcome to my GitHub profile! 👋🏻
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Anshari&fontSize=80&fontAlign=60&animation=fadeIn)
 
@@ -60,7 +60,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanihbro&theme=github-compact&radius=16" height="auto" alt=""/>
 
-## ⚙️ Tech Arsenal
+## ☰ Tech Stack
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -146,7 +146,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 </div>
 
 
-## 🎯 Current Setup
+## ⚙️ Current Setup
 
 
 ```yaml
