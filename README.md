@@ -161,7 +161,7 @@ System:
   device: ["vivo iQOO 12", "Lenovo IdeaPad Flex 5 14ABR8"]
   processor: "Qualcomm™ Snapdragon 8 Gen 3"
   os: ["Android 15", "Windows 11 23H2"]
-  environment: ["Kali Linux", "Ubuntu", "Debian", "Windows", "Cent OS", "Arch Linux", "Proxmox"]
+  environment: ["RouterOS", "OpenWrt", "Kali Linux", "Ubuntu", "Debian", "Windows", "Cent OS", "Arch Linux", "Proxmox"]
 ```
 
 <!-- ## 💻 Technical Skills: -->
