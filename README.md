@@ -44,7 +44,6 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irfanihbro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=irfanihbro&theme=dark"/>
 </div>
 
 <div align="center">
