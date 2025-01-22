@@ -32,7 +32,9 @@ As an 11th-grade student majoring in Computer Network and Telecommunications Eng
 <br><br>
 With solid skills in network system design and management, I also explore the creative side of life through playing guitar and photography, combining art and tech seamlessly. <br><br> 
 Below here are my social links. 👇🏻 <br> Let's get connected! :)
+
 <!-- ## 🌐 Socials: -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230068C9.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanmastermind) [![𝕏](https://img.shields.io/badge/𝕏-%23000000.svg?logo=X&logoColor=white)](https://x.com/Irfanihbro) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://id.quora.com/profile/Muhammad-Irfan-Anshari?ch=10&oid=2904314889) [![PlayStation](https://img.shields.io/badge/PlayStation-%23004DA5.svg?logo=PlayStation&logoColor=white)](https://profile.playstation.com/Hathorik) [![Roblox](https://img.shields.io/badge/Roblox-%23202020.svg?logo=Roblox&logoColor=chrome)](https://www.roblox.com/id/users/7584753824/profile)
 [![Facebook](https://img.shields.io/badge/Facebook-%230068FF.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/irfanihbro)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/irfanihbro)
@@ -43,8 +45,8 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irfanihbro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanihbro&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irfanihbro&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=irfanihbro&theme=transparent"/>
 </div>
 
 <div align="center">
@@ -61,7 +63,20 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanihbro&theme=github-compact&radius=16" height="auto" alt=""/>
 
-## ☰ Tech Stack
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=glassmorphism-login-form&theme=transparent)](https://github.com/irfanihbro/glassmorphism-login-form)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=blox-glassmorphism-v2&theme=transparent)](https://github.com/irfanihbro/blox-glassmorphism-v2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=financialmanager&theme=transparent)](https://github.com/irfanihbro/financialmanager)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=real-time_gitrepo&theme=transparent)](https://github.com/irfanihbro/real-time_gitrepo)
+
+[➡️ See all projects ➡️](https://github.com/irfanihbro?tab=repositories)
+
+</div>
+
+## ☰ Tech Stack ☰
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -108,7 +123,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)
 
 
-## 🛠️ Tools
+## 🛠️ Tools 🛠️
 
 
 ![Device](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
@@ -119,6 +134,8 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
+![Acode](https://img.shields.io/badge/Acode-4F46E5?style=for-the-badge&logo=android&logoColor=white)
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
@@ -163,6 +180,13 @@ System:
   os: ["Android 15", "Windows 11 23H2"]
   environment: ["RouterOS", "OpenWrt", "Kali Linux", "Ubuntu", "Debian", "Windows", "Cent OS", "Arch Linux", "Proxmox"]
 ```
+<br>
+<div align="center">
+  
+[![GitHub Followers](https://img.shields.io/github/followers/irfanihbro?style=social)](https://github.com/irfanihbro?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/irfanihbro?style=social)](https://github.com/irfanihbro)
+
+</div>
 
 <!-- ## 💻 Technical Skills: -->
 
