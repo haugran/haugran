@@ -63,7 +63,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanihbro&theme=github-compact&radius=16" height="auto" alt=""/>
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects 🌟
 
 <div align="center">
 
