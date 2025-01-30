@@ -10,6 +10,10 @@
 <!-- Animasi Mengetik -->
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech+Enthusiast+;Programmer;Full-Stack+Developer;Network+Engineer;Guitarist;Photographer;Automotive+Enthusiast)](https://git.io/typing-svg)
 </div>
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
 ## 🧑🏻‍💻 About Me
 
