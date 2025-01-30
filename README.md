@@ -39,7 +39,7 @@ As an 11th-grade student majoring in Computer Network and Telecommunications Eng
 With solid skills in network system design and management, I also explore the creative side of life through playing guitar and photography, combining art and tech seamlessly. <br><br>
 <div align="center"> 
 Below here are my social links. 👇🏻 <br> Let's get connected! :)
-</div><br>
+<br>
 <!-- ## 🌐 Socials: -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230068C9.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanmastermind) [![𝕏](https://img.shields.io/badge/𝕏-%23000000.svg?logo=X&logoColor=white)](https://x.com/Irfanihbro) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://id.quora.com/profile/Muhammad-Irfan-Anshari?ch=10&oid=2904314889) [![PlayStation](https://img.shields.io/badge/PlayStation-%23004DA5.svg?logo=PlayStation&logoColor=white)](https://profile.playstation.com/Hathorik) [![Roblox](https://img.shields.io/badge/Roblox-%23202020.svg?logo=Roblox&logoColor=chrome)](https://www.roblox.com/id/users/7584753824/profile)
@@ -49,7 +49,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 [![TikTok](https://img.shields.io/badge/TikTok-%23111111.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@irfanihbro)
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=FFFFFF)](https://open.spotify.com/user/313aemqfkpwlwusrqfhrd46zxcei?si=VfjHZ6WJQKOfNzBfhKMbog)
 <br><br>
-
+</div>
 ## 📊 GitHub Stats
 
 <div align="center">
