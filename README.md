@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfanihbro&label=Total%20profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfanihbro&label=Total%20profile%20views&color=0e75b6&style=flat"/></p>
   
 #### Welcome to my GitHub profile! 👋🏻
 <br>
@@ -61,6 +61,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanihbro&theme=transparent"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irfanihbro&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=irfanihbro&theme=transparent"/>
 </div>
@@ -203,7 +204,7 @@ Development:
 System:
   device: ["vivo iQOO 12", "Lenovo IdeaPad Flex 5 14ABR8"]
   processor: "Qualcomm™ Snapdragon 8 Gen 3"
-  os: ["Android 15", "Windows 11 23H2"]
+  os: ["Android 15", "Windows 11 24H2"]
   environment: ["RouterOS", "OpenWrt", "Kali Linux", "Ubuntu", "Debian", "Windows", "Cent OS", "Arch Linux", "Casa OS", "Proxmox"]
 ```
 <br>
