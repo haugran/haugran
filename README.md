@@ -41,21 +41,19 @@ With solid skills in network system design and management, I also explore the cr
 <div align="center"> 
 Below here are my social links. 👇🏻 <br> Let's get connected! :)
 
-<div>
+</div>
 <br>
 
 <!-- ## 🌐 Socials: -->
 
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230068C9.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanmastermind) [![𝕏](https://img.shields.io/badge/𝕏-%23000000.svg?logo=X&logoColor=white)](https://x.com/Irfanihbro) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://id.quora.com/profile/Muhammad-Irfan-Anshari?ch=10&oid=2904314889) [![PlayStation](https://img.shields.io/badge/PlayStation-%23004DA5.svg?logo=PlayStation&logoColor=white)](https://profile.playstation.com/Hathorik) [![Roblox](https://img.shields.io/badge/Roblox-%23202020.svg?logo=Roblox&logoColor=chrome)](https://www.roblox.com/id/users/7584753824/profile)
 [![Facebook](https://img.shields.io/badge/Facebook-%230068FF.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/irfanihbro)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/irfanihbro)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Irfanihbro/s/Sq62J8E3Wv)
 [![TikTok](https://img.shields.io/badge/TikTok-%23111111.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@irfanihbro)
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=FFFFFF)](https://open.spotify.com/user/313aemqfkpwlwusrqfhrd46zxcei?si=VfjHZ6WJQKOfNzBfhKMbog)
-
 <br><br>
-</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
