@@ -56,7 +56,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=FFFFFF)](https://open.spotify.com/user/313aemqfkpwlwusrqfhrd46zxcei?si=VfjHZ6WJQKOfNzBfhKMbog)
 
 </div>
-<br><br>
+<br>
 
 ## 📊 GitHub Stats
 
