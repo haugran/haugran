@@ -87,7 +87,18 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=glassmorphism-login-form&theme=transparent)](https://github.com/irfanihbro/glassmorphism-login-form)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=diy-pohon-natal&theme=transparent)](https://github.com/irfanihbro/diy-pohon-natal)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=pengenalan-wajah&theme=transparent)](https://github.com/irfanihbro/pengenalan-wajah)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=love-ani&theme=transparent)](https://github.com/irfanihbro/love-ani)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=blox-glassmorphism-v2&theme=transparent)](https://github.com/irfanihbro/blox-glassmorphism-v2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=terima-atau-tolak&theme=transparent)](https://github.com/irfanihbro/terima-atau-tolak)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=laravel-API-V1&theme=transparent)](https://github.com/irfanihbro/laravel-API-V1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=nextjs-admin-1&theme=transparent)](https://github.com/irfanihbro/nextjs-admin-1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=cubeslide&theme=transparent)](https://github.com/irfanihbro/cubeslide)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=login-form-blue&theme=transparent)](https://github.com/irfanihbro/login-form-blue)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=login-form-red&theme=transparent)](https://github.com/irfanihbro/login-form-red)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=personal-website&theme=transparent)](https://github.com/irfanihbro/personal-website)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=3d-flip-form&theme=transparent)](https://github.com/irfanihbro/3d-flip-form)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=financialmanager&theme=transparent)](https://github.com/irfanihbro/financialmanager)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=real-time_gitrepo&theme=transparent)](https://github.com/irfanihbro/real-time_gitrepo)
 
