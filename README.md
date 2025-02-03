@@ -86,7 +86,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=glassmorphism-login-form&theme=transparent)](https://github.com/irfanihbro/glassmorphism-login-form)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=diy-pohon-natal&theme=transparent)](https://github.com/irfanihbro/diy-pohon-natal)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=pixel-christmas-tree-decorator&theme=transparent)](https://github.com/irfanihbro/pixel-christmas-tree-decorator)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=pengenalan-wajah&theme=transparent)](https://github.com/irfanihbro/pengenalan-wajah)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=love-ani&theme=transparent)](https://github.com/irfanihbro/love-ani)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=blox-glassmorphism-v2&theme=transparent)](https://github.com/irfanihbro/blox-glassmorphism-v2)
