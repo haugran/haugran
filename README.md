@@ -8,7 +8,7 @@
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Anshari&fontSize=80&fontAlign=60&animation=fadeIn)
 
 <!-- Animasi Mengetik -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech+Enthusiast+;Programmer;Full-Stack+Developer;Network+Engineer;Linux+Enthusiast;Guitarist;Photographer;Automotive+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech-savvy+;Programmer;Full-Stack+Developer;Network+Engineer;Linux+Enthusiast;Guitarist;Photographer;Automotive+Enthusiast;Video+Game+Lover;Art+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 <br>
@@ -215,11 +215,11 @@ Development:
   Editor:
     desktop: ["Visual Studio Code", "Sublime Text", "JetBrains Fleet", "Arduino IDE", ]
     mobile: ["Acode"]
-    terminal: ["Termux", "Linux Userland", "PowerShell", "GNU Bash"]
+    terminal: ["Termux", "Linux UserLAnd", "PowerShell", "GNU Bash"]
     
 System:
   device: ["vivo iQOO 12", "Lenovo IdeaPad Flex 5 14ABR8"]
-  processor: "Qualcomm™ Snapdragon 8 Gen 3"
+  processor: "Qualcomm™ Snapdragon 8 Gen 3", "AMD™ Ryzen 7 7730U"
   os: ["Android 15", "Windows 11 24H2"]
   environment: ["RouterOS", "OpenWrt", "Kali Linux", "Ubuntu", "Debian", "Windows", "Cent OS", "Arch Linux", "Casa OS", "Proxmox"]
 ```
