@@ -54,7 +54,10 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Irfanihbro/s/Sq62J8E3Wv)
 [![TikTok](https://img.shields.io/badge/TikTok-%23111111.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@irfanihbro)
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=FFFFFF)](https://open.spotify.com/user/313aemqfkpwlwusrqfhrd46zxcei?si=VfjHZ6WJQKOfNzBfhKMbog)
-
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">
 </div>
 <br>
 
@@ -81,7 +84,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 <!-- Grafik Kontribusi -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanihbro&theme=github-compact&radius=16" height="auto" alt=""/>
 
-## 🌟 Featured Projects 🌟
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> Featured Projects <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25">
 
 <div align="center">
 
