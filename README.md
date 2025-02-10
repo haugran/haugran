@@ -85,11 +85,9 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=glassmorphism-login-form&theme=transparent)](https://github.com/irfanihbro/glassmorphism-login-form)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=pixel-christmas-tree-decorator&theme=transparent)](https://github.com/irfanihbro/pixel-christmas-tree-decorator)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=pengenalan-wajah&theme=transparent)](https://github.com/irfanihbro/pengenalan-wajah)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=love-ani&theme=transparent)](https://github.com/irfanihbro/love-ani)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=blox-glassmorphism-v2&theme=transparent)](https://github.com/irfanihbro/blox-glassmorphism-v2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=love-ani&theme=transparent)](https://github.com/irfanihbro/love-ani)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=AnotherDay&theme=transparent)](https://github.com/irfanihbro/AnotherDay)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=terima-atau-tolak&theme=transparent)](https://github.com/irfanihbro/terima-atau-tolak)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=laravel-API-V1&theme=transparent)](https://github.com/irfanihbro/laravel-API-V1)
@@ -100,7 +98,6 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=personal-website&theme=transparent)](https://github.com/irfanihbro/personal-website)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=3d-flip-form&theme=transparent)](https://github.com/irfanihbro/3d-flip-form)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=financialmanager&theme=transparent)](https://github.com/irfanihbro/financialmanager)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=real-time_gitrepo&theme=transparent)](https://github.com/irfanihbro/real-time_gitrepo)
 
 [➡️ See all projects ➡️](https://github.com/irfanihbro?tab=repositories)
 
@@ -218,7 +215,7 @@ Development:
     terminal: ["Termux", "Linux UserLAnd", "PowerShell", "GNU Bash"]
     
 System:
-  device: ["vivo iQOO 12", "Lenovo IdeaPad Flex 5 14ABR8"]
+  device: ["Vivo iQOO 12", "Lenovo IdeaPad Flex 5 14ABR8"]
   processor: "Qualcomm™ Snapdragon 8 Gen 3", "AMD™ Ryzen 7 7730U"
   os: ["Android 15", "Windows 11 24H2"]
   environment: ["RouterOS", "OpenWrt", "Kali Linux", "Ubuntu", "Debian", "Windows", "Cent OS", "Arch Linux", "Casa OS", "Proxmox"]
