@@ -100,8 +100,6 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=pixel-christmas-tree-decorator&theme=transparent)](https://github.com/irfanihbro/pixel-christmas-tree-decorator)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=pengenalan-wajah&theme=transparent)](https://github.com/irfanihbro/pengenalan-wajah)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=AnotherDay&theme=transparent)](https://github.com/irfanihbro/AnotherDay)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=terima-atau-tolak&theme=transparent)](https://github.com/irfanihbro/terima-atau-tolak)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=laravel-inertia-react&theme=transparent)](https://github.com/irfanihbro/laravel-inertia-react)
