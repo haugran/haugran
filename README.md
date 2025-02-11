@@ -13,9 +13,11 @@
 
 </div>
 <br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
   <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif">
+
 </div>
 
 ## 🧑🏻‍💻 About Me
@@ -207,7 +209,6 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 [![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com)
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com)
 [![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=fff)](https://chocolatey.org)
-
 
 </div>
 
