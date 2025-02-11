@@ -8,7 +8,8 @@
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Anshari&fontSize=80&fontAlign=60&animation=fadeIn)
 
 <!-- Animasi Mengetik -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech-savvy+;Programmer;Tech+Enthusiast;Full-Stack+Developer;Network+Engineer;Linux+Enthusiast;Guitarist;Photographer;Automotive+Enthusiast)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech-savvy+;Programmer;Tech+Enthusiast;Full-Stack+Developer;Network+Engineer;Linux+Enthusiast;Guitarist;Photographer;Automotive+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 <br>
@@ -27,7 +28,7 @@ class irfanihbro:
         self.interests = ["Cybersecurity", "Web3", "AI", "Robotics", "Blockchain"]
         self.gaming = ["Roblox", "PlayStation 5", "Zenless Zone Zero"]
         self.life_motto = "Big plans start with small steps"
-    
+
     def get_daily_routine(self):
         return ["Code", "Learn", "Game", "Guitar", "Repeat"]
 ```
@@ -37,6 +38,7 @@ class irfanihbro:
 As an 11th-grade student majoring in Computer Network and Telecommunications Engineering at Vocational High School 1 Banjarmasin, I'm deeply passionate about technology, especially in Blockchain, Web3, AI/Machine Learning, Robotics, and Cybersecurity. I love to keep up with the latest trends.
 <br><br>
 With solid skills in network system design/management and full-stack development, I also explore the creative side of life through playing guitar and photography, combining art and tech seamlessly. <br><br>
+
 <div align="center"> 
 Below here are my social links. 👇🏻 <br> Let's get connected! :)
 
@@ -55,18 +57,20 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=FFFFFF)](https://open.spotify.com/user/313aemqfkpwlwusrqfhrd46zxcei?si=VfjHZ6WJQKOfNzBfhKMbog)
 <br>
 <a href="https://wa.me/6282254161750" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50">
 </a>
 <a href="https://www.linkedin.com/in/irfanmastermind" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
 </a>
 <a href="https://www.instagram.com/irfanihbro" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">
 </a>
+
 </div>
 <br>
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanihbro&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -108,7 +112,6 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 </div>
 
 ## ☰ Tech Stack ☰
-
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -164,9 +167,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
 
-
 ## 🛠️ Tools 🛠️
-
 
 ![Device](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -207,9 +208,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 
 </div>
 
-
 ## ⚙️ Current Setup
-
 
 ```yaml
 Development:
@@ -217,13 +216,14 @@ Development:
     desktop: ["Visual Studio Code", "Sublime Text", "JetBrains Fleet", "Arduino IDE", ]
     mobile: ["Acode"]
     terminal: ["Termux", "Linux UserLAnd", "PowerShell", "GNU Bash"]
-    
+
 System:
   device: ["Vivo iQOO 12", "Lenovo IdeaPad Flex 5 14ABR8"]
   processor: "Qualcomm™ Snapdragon 8 Gen 3", "AMD™ Ryzen 7 7730U"
   os: ["Android 15", "Windows 11 24H2"]
   environment: ["RouterOS", "OpenWrt", "Kali Linux", "Ubuntu", "Debian", "Windows", "Cent OS", "Arch Linux", "Casa OS", "Proxmox"]
 ```
+
 <br>
 <div align="center">
   
@@ -231,24 +231,49 @@ System:
 [![GitHub Stars](https://img.shields.io/github/stars/irfanihbro?style=social)](https://github.com/irfanihbro)
 
 <!-- Logo Dinamis -->
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50">
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
+</a>
+<a href="https://code.visualstudio.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+</a>
+<a href="https://getbootstrap.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50">
+</a>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+</a>
+<a href="https://www.sublimetext.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="50">
+</a>
+<a href="https://vuejs.org" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50">
+</a>
+<a href="https://angular.io" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50">
+</a>
+<a href="https://react.dev" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
+</a>
+<a href="https://git-scm.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
+</a>
+<a href="https://github.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
+</a>
+<a href="https://developer.android.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50">
+</a>
 
-</div>
-<br>
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif">
+<hr>
+
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">
 
 <!-- ## 💻 Technical Skills: -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
