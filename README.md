@@ -56,9 +56,7 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/u/Irfanihbro/s/Sq62J8E3Wv)
 [![TikTok](https://img.shields.io/badge/TikTok-%23111111.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@irfanihbro)
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=FFFFFF)](https://open.spotify.com/user/313aemqfkpwlwusrqfhrd46zxcei?si=VfjHZ6WJQKOfNzBfhKMbog)
-
-<br>
-
+
 <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50">
 <a href="https://www.linkedin.com/in/irfanmastermind" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
