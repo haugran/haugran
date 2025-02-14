@@ -3,6 +3,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfanihbro&label=Total%20profile%20views&color=0e75b6&style=flat"/></p>
   
 #### Welcome to my GitHub profile! 👋🏻
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhYWJiMTJjNDA0NDcwZDE2YTI0OTE2YjBlYjZmZjgyZTA2YjFjN2U1YTExNmE5YjRkYjc3ZTkzMzQwYWEwODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.akyJFmYRArBCujlogi3B6_lmASIbxIkMA0g_Rshn_jI" align="center" width="125">
 <br>
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Irfan%20Anshari&fontSize=80&fontAlign=60&animation=fadeIn)
@@ -15,10 +16,58 @@
 <br>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="60">
+  
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzOWU2NWFjMDhkNjM1ZDMwNTIxOTVlNjQ0NDczN2JlY2M4ZWRkMzU2NTJlNzA5M2YwMmMxNGI3ODU1YzljNDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1bJpvwGgutt9uj7-teTiKbv1eA3f0ZKtJrjHIor8kgw" width="40">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="50">
+  
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzgtNzYwMzYzMTEtYzhlYS00MjQ3LThiZjgtYTcwNzc2MjMwMzZjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwYmFhZmFlMmUzNWNmYjc1MWYyNjMxMjI5ZTczM2UxOWNiMjg2YzI0ZTAzYTk1YWY2YWNiZDZmMjAyODRiZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MdiZI30FKm3A2AiB8j4OXEYXCLlvJJZfVei-ijYZvvI" width="50">
+  
+  <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlMmQ3NjY1ZGNjZDVlMTYwZTEyMmZhYzdkNzk4M2NlNDIzZmQ4ZmQzNDc2OGE0YjQ2MDQ4MzgyZjE2MTEzZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3jXsw_XHFUHQpgvnpj8PciB56dV8fETOkAFaEDWMjZ0" width="50">
+  
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200844-87b72768-3740-4648-b118-c3164ff654cd.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDQtODdiNzI3NjgtMzc0MC00NjQ4LWIxMTgtYzMxNjRmZjY1NGNkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwZjViZmI5NzU4Mjg3NjQzZWZiYzE2Y2NlNGM4ZmRlYTNkOGQ1NTBlNjFiMTI0MDlhNGVkYzBjNTk2ODNlZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vPCGU7Nbc1NXGtDZMchTP4-bM9ujjTBj0pUEa14hBBA" width="60">
+  
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyNTNkNTQ3YjY5ZGQxNWRkODhjZDAwOTU2ZjdhMGNlMjgwMWJhMGUzNWIwNjExMTgyODMyYmM3ZDYzOWVlNGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ib5--vOs-aCRa1aGoSjF1YOWj6HhodQJyxzvFx8kQys" width="55">
+  
+  <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5MTU4ODhlY2MzYzJjMTNjNjM1ZjJmYTQ1YTM4Y2M4ZDkwYzYzZGY3YTg0ODNlN2Q3NjIwYWZiYjY4Y2QzMTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sqtjZ1PUMs8kaHvMETSdHXFDS_Tl5Rr4SwH05Gl6HAw" width="50">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50">
+  
+  <img src="https://private-user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTQyMTctYmFmNTJhYTYtZmY3MS00MTJkLTk2MDctZGI4ZmViMTc4NzRiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3MzRkZjA0NDQzYzFhMTZlMDBiOGI0ZjZjNTE3ODA5MjgyNjM0OTM4MDgwMWY3ZjIzODc1MDE2YWVlZDI2NmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.F0-P_dpl4yYaMJsDsssdq5C7a-XJe0KH-ecBAxZVCI0" width="50">
+  
+</div>
+<br>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
 
 ## 🧑🏻‍💻 About Me
+```
+████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
+████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
+▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
+█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
+▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
+██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
+████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
+██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
+████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
+████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
+█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
+█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
+▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+```
 
 ```python
 class irfanihbro:
@@ -27,11 +76,11 @@ class irfanihbro:
         self.location = "Banjarmasin, Indonesia"
         self.work = "Network Engineer & Full-Stack Developer"
         self.interests = ["Cybersecurity", "Web3", "AI", "Robotics", "Blockchain"]
-        self.gaming = ["Roblox", "PlayStation 5", "Zenless Zone Zero"]
+        self.gaming = ["Roblox", "Minecraft", "PlayStation 5 Exclusives", "Zenless Zone Zero"]
         self.life_motto = "Big plans start with small steps"
 
     def get_daily_routine(self):
-        return ["Code", "Learn", "Game", "Guitar", "Repeat"]
+        return ["Eat", "Code", "Learn", "Game", "Guitar", "Sleep", "Repeat"]
 ```
 
 <br>
@@ -97,7 +146,6 @@ Below here are my social links. 👇🏻 <br> Let's get connected! :)
 <div align="center">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=AnotherDay&theme=transparent)](https://github.com/irfanihbro/AnotherDay)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=terima-atau-tolak&theme=transparent)](https://github.com/irfanihbro/terima-atau-tolak)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=laravel-inertia-react&theme=transparent)](https://github.com/irfanihbro/laravel-inertia-react)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=nextjs-admin-1&theme=transparent)](https://github.com/irfanihbro/nextjs-admin-1)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=irfanihbro&repo=cubeslide&theme=transparent)](https://github.com/irfanihbro/cubeslide)
@@ -268,7 +316,33 @@ System:
 <a href="https://developer.android.com" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50">
 </a>
-<hr>
+<br><br>
+
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+
+
 <!-- ## 💻 Technical Skills: -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
