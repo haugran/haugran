@@ -17,27 +17,20 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="60">
-  
-  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzOWU2NWFjMDhkNjM1ZDMwNTIxOTVlNjQ0NDczN2JlY2M4ZWRkMzU2NTJlNzA5M2YwMmMxNGI3ODU1YzljNDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1bJpvwGgutt9uj7-teTiKbv1eA3f0ZKtJrjHIor8kgw" width="40">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
-  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="50">
-  
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzgtNzYwMzYzMTEtYzhlYS00MjQ3LThiZjgtYTcwNzc2MjMwMzZjLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwYmFhZmFlMmUzNWNmYjc1MWYyNjMxMjI5ZTczM2UxOWNiMjg2YzI0ZTAzYTk1YWY2YWNiZDZmMjAyODRiZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MdiZI30FKm3A2AiB8j4OXEYXCLlvJJZfVei-ijYZvvI" width="50">
-  
-  <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlMmQ3NjY1ZGNjZDVlMTYwZTEyMmZhYzdkNzk4M2NlNDIzZmQ4ZmQzNDc2OGE0YjQ2MDQ4MzgyZjE2MTEzZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3jXsw_XHFUHQpgvnpj8PciB56dV8fETOkAFaEDWMjZ0" width="50">
-  
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200844-87b72768-3740-4648-b118-c3164ff654cd.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDQtODdiNzI3NjgtMzc0MC00NjQ4LWIxMTgtYzMxNjRmZjY1NGNkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwZjViZmI5NzU4Mjg3NjQzZWZiYzE2Y2NlNGM4ZmRlYTNkOGQ1NTBlNjFiMTI0MDlhNGVkYzBjNTk2ODNlZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vPCGU7Nbc1NXGtDZMchTP4-bM9ujjTBj0pUEa14hBBA" width="60">
-  
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUyNTNkNTQ3YjY5ZGQxNWRkODhjZDAwOTU2ZjdhMGNlMjgwMWJhMGUzNWIwNjExMTgyODMyYmM3ZDYzOWVlNGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ib5--vOs-aCRa1aGoSjF1YOWj6HhodQJyxzvFx8kQys" width="55">
-  
-  <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5MTU4ODhlY2MzYzJjMTNjNjM1ZjJmYTQ1YTM4Y2M4ZDkwYzYzZGY3YTg0ODNlN2Q3NjIwYWZiYjY4Y2QzMTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sqtjZ1PUMs8kaHvMETSdHXFDS_Tl5Rr4SwH05Gl6HAw" width="50">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50">
-  
-  <img src="https://private-user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MDcyNjUsIm5iZiI6MTczOTUwNjk2NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTQyMTctYmFmNTJhYTYtZmY3MS00MTJkLTk2MDctZGI4ZmViMTc4NzRiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE0VDA0MjI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3MzRkZjA0NDQzYzFhMTZlMDBiOGI0ZjZjNTE3ODA5MjgyNjM0OTM4MDgwMWY3ZjIzODc1MDE2YWVlZDI2NmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.F0-P_dpl4yYaMJsDsssdq5C7a-XJe0KH-ecBAxZVCI0" width="50">
-  
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="50">&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50">&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="60">&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="60">&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="55">&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="50">&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="60">&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="45">&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50">&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="50">&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="50">&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="50">&nbsp;
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="50">&nbsp;
 </div>
 <br>
 
@@ -316,7 +309,10 @@ System:
 <a href="https://developer.android.com" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50">
 </a>
-<br><br>
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="750">
+<br>
 
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
 <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="30" height="30"/>
@@ -341,7 +337,6 @@ System:
 <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
 <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
 <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-
 
 <!-- ## 💻 Technical Skills: -->
 
