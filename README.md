@@ -10,7 +10,7 @@
 
 <!-- Animasi Mengetik -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech-savvy+;Programmer;Tech+Enthusiast;Full-Stack+Developer;Network+Engineer;Linux+Enthusiast;Distro+Hopper;Guitarist;Photographer;Automotive+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Tech+Enthusiast;Tech-savvy+;Programmer;Full-Stack+Developer;Network+Engineer;Linux+Enthusiast;Distro+Hopper;Guitarist;Photographer;Automotive+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 <br>
